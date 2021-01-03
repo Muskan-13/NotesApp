@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_word">Add</string>
+    <string name="hint_word">Enter the Note...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Note not saved because it is empty.</string>
+    <string name="tap_the_button_to_add_notes">Tap the button to add Notes</string>
+
+</resources>
